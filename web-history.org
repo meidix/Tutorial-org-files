@@ -1,0 +1,30 @@
+#+TITLE: Web History
+
+* netscape company created the first browser
+* 1955 internet became comercial
+* bill gates realesed internet explorer
+* bill gates released a paper that every sotware product should have something to do with internet
+**  perl prefered back-end language
+**  php created by someone that hated coding in perl
+*** he hated perl
+*** some simple tools for managing a home page
+*** php is abreviation for personal home page
+*** some scripts mostly in c just for maintaining a home page
+**  sql could be injected into html
+** java was created and fastly java applets and servlets came to existance
+** microsoft released active x for the internet
+** netscape developers created javascript
+*** at first it was called mocha then livescript. java was popular so JavaScript was creates
+**  the first web servers
+*** Windows server(internet information serivecs)
+*** apache( a pathiy server )
+*   after active x ASP was created( Active server pages ) by microsoft
+*   html 3.2 was created finally
+* 1998 html 4.0  and css was added
+* 1998 also someone new hired in microsoft created a prototype of a request and response cycle and then called it asp + which was written in j++. j++ will later become C#. an object-oriented way
+* 2000 xhtml 1.0 created. html with some xml
+* 2002 asp.net and C# comes to existance
+* 2002 netscape becomes mozilla and create firefox
+* 2003 safari comes to existance
+* a web developer in a newspaper starts to writing web things in python language and with some friends somethings happens and 2005 starts the django project
+* 2005 DHH. software as a service. it had a project called basecamp. it was so hard this way so he created Rails. the first backend web framework. written in Ruby lang.
